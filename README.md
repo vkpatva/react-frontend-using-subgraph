@@ -1,6 +1,6 @@
 # React Subgraph Template
 
-Welcome to the React Web 3 Template! This template provides a quick start for building React applications with Web 3 integration. It includes components for handling deposits and withdrawals using subgraph queries, along with the MUI X Data Grid for creating tables.
+This template provides a quick start for building React applications with Subgraph integration for your smart contract. It includes components for handling deposits and withdrawals using subgraph queries, along with the MUI X Data Grid for creating tables.
 
 ## Quick Start
 
@@ -8,8 +8,8 @@ Follow these steps to get started with the template:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/vkpatva/deploy-subgraph-template.git
-cd deploy-subgraph-template
+git clone https://github.com/vkpatva/react-frontend-using-subgraph
+cd subgraph-tutorial
 ```
 2. **Install packages:**
 ```bash
