@@ -1,13 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-
+import { Table } from '@mui/material';
+import { Deposit } from './components/Deposit/Deposit.component';
+import { Withdraw } from './components/Withdraw/Withdraw.component';
 function App() {
   
   return (
     <>
-    
+    <Deposit/>
+    <Withdraw/>
     </>
   )
 }
